@@ -5,7 +5,7 @@ final List<Map<String, dynamic>> countryCodes = [
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "All",
+    "name": "ALL",
     "example": "701234567",
     "display_name": "All",
     "full_example_with_plus_sign": "",
