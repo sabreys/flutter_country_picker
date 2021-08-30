@@ -1,11 +1,11 @@
 final List<Map<String, dynamic>> countryCodes = [
   {
     "e164_cc": "999",
-    "iso2_cc": "🏳",
+    "iso2_cc": "🏳️",
     "e164_sc": 0,
     "geographic": true,
     "level": 1,
-    "name": "🏳️",
+    "name": "All",
     "example": "701234567",
     "display_name": "All",
     "full_example_with_plus_sign": "",
