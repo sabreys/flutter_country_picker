@@ -1,4 +1,5 @@
 Map<String, String> nn = {
+  "ALL": "Alle",
   "AF": "Afghanistan",
   "AX": "Åland",
   "AL": "Albania",

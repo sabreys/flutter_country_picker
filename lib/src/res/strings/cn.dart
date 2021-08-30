@@ -1,4 +1,5 @@
 Map<String, String> cn = {
+  "ALL": "全部",
   "AF": "阿富汗",
   "AX": "奥兰",
   "AL": "阿尔巴尼亚",

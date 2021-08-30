@@ -1,4 +1,5 @@
 Map<String, String> tr = {
+  "ALL": "Hepsi",
   "AF": "Afganistan",
   "AX": "Åland Adaları",
   "AL": "Arnavutluk",

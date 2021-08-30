@@ -1,4 +1,5 @@
 Map<String, String> tw = {
+  "ALL": "全部",
   "AF": "阿富汗",
   "AX": "奧蘭",
   "AL": "阿爾巴尼亞",
